@@ -25,6 +25,7 @@ wlt username passwd type exp
  exp 是时间长度 
  
  | exp | 描述 |
+| ---- | ---- |
  |   0     | 永久 |
  |   120   | 动态 |
  |   3600  | 1小时|
